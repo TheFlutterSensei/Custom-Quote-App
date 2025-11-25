@@ -1,16 +1,40 @@
-# custom_quote_app
+# **Custom Quote App**
 
-A new Flutter project.
+A Flutter application that displays a custom-designed quote card.
+This project is aimed at beginners learning how to combine styling, layout, text design with Google Fonts, and basic UI composition in Flutter.
+It helps students understand how to structure simple UI widgets into clean, reusable components.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **How to Download and Use**
 
-A few resources to get you started if this is your first Flutter project:
+### **1. Clone this repository**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/TheFlutterSensei/Custom-Quote-App.git
+cd Custom-Quote-App
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **2. Install dependencies**
+
+```bash
+flutter pub get
+```
+
+### **3. Run the app**
+
+```bash
+flutter run
+```
+
+---
+
+## **Where to Learn?**
+
+### **Full Learning Path & Tutorials**
+
+[https://fluttersensei.com](https://fluttersensei.com)
+
+### **Complete Step-By-Step Class on Skillshare**
+
+[Skillshare class](https://skl.sh/4nywYp4)
