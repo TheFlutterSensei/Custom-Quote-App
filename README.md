@@ -1,36 +1,19 @@
-# **Custom Quote App**
+### Custom Quote App
 
-A Flutter application that displays a custom-designed quote card.
-This project is aimed at beginners learning how to combine styling, layout, text design with Google Fonts, and basic UI composition in Flutter.
-It helps students understand how to structure simple UI widgets into clean, reusable components.
+Build a Flutter app that displays custom quotes.
+Learn UI layout, text styling, and basic data handling.
+Great practice for real-world Flutter apps.
 
----
+Steps to use the app:
+1. Clone the repository
+2. Run ```flutter pub get```
+3. Run ```flutter run```
+4. Explore the app and customize quotes
 
-## **How to Download and Use**
+### Create Beautiful Flutter Quotes
 
-### **1. Clone this repository**
+This mini class teaches Flutter UI fundamentals.
+Build confidence creating polished app screens.
+Perfect for beginners and creative developers.
 
-```bash
-git clone https://github.com/TheFlutterSensei/Custom-Quote-App.git
-cd Custom-Quote-App
-```
-
-### **2. Install dependencies**
-
-```bash
-flutter pub get
-```
-
-### **3. Run the app**
-
-```bash
-flutter run
-```
-
----
-
-## **Where to Learn?**
-
-### **Full Learning Path & Tutorials**
-
-[https://fluttersensei.com](https://fluttersensei.com)
+http://courses.fluttersensei.com/l/flutter-custom-quote-app
